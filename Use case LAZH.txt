@@ -1,0 +1,7 @@
+The game is based on the fact that a snake is hungry and would like to eat a rabbit.
+The snake and the rabbit starts each in corner on the game board, which is made as a coordinate system.
+The snake starts at square 9, 9, and the rabbit starts at square 0, 0. Then the snake and the rabbit will move
+towards each other. When the snake and the rabbit are at the same square, the rabbit will exclaim "Do not eat me" 
+and the snake will exclaim "haha - I am hungry and I'll eat you anyway".
+If this is not the case and they pass each other, then the rabbit will exclaim "I was too fast".
+The game is over when they are either at the same square or they have passed each other.

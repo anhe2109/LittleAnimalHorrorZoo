@@ -6,10 +6,6 @@ public class Animal{
    private String sound;
    private int xAnimal;
    private int yAnimal;
-//public int rabbitx;
-//private int rabbity;
-//private int snakex;
-//private int snakey;  
 
 
 // Constructor - vi konstruerer objektet
